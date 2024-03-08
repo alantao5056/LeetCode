@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Project Name="LeetCode" Version="11000" InternalType="">
+  <VirtualDirectory Name="983. Minimum Cost For Tickets">
+    <File Name="983. Minimum Cost For Tickets/Solution3.cpp"/>
+    <File Name="983. Minimum Cost For Tickets/Solution2.cpp"/>
+    <File Name="983. Minimum Cost For Tickets/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="978. Longest Turbulent Subarray">
+    <File Name="978. Longest Turbulent Subarray/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="931. Minimum Falling Path Sum">
+    <File Name="931. Minimum Falling Path Sum/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="926. Flip String to Monotone Increasing">
+    <File Name="926. Flip String to Monotone Increasing/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="873. Length of Longest Fibonacci Subsequence">
+    <File Name="873. Length of Longest Fibonacci Subsequence/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="845. Longest Mountain in Array">
+    <File Name="845. Longest Mountain in Array/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="838. Push Dominoes">
+    <File Name="838. Push Dominoes/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="813. Largest Sum of Averages">
+    <File Name="813. Largest Sum of Averages/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="799. Champagne Tower">
+    <File Name="799. Champagne Tower/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="788. Rotated Digits">
+    <File Name="788. Rotated Digits/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="714. Best Time to Buy and Sell Stock with Transaction Fee">
+    <File Name="714. Best Time to Buy and Sell Stock with Transaction Fee/Solution2.cpp"/>
+    <File Name="714. Best Time to Buy and Sell Stock with Transaction Fee/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="712. Minimum ASCII Delete Sum for Two Strings">
+    <File Name="712. Minimum ASCII Delete Sum for Two Strings/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="650. 2 Keys Keyboard">
+    <File Name="650. 2 Keys Keyboard/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="63. Unique Paths II">
+    <File Name="63. Unique Paths II/solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="62. Unique Paths">
+    <File Name="62. Unique Paths/solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="576. Out of Boundary Paths">
+    <File Name="576. Out of Boundary Paths/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="494. Target Sum">
+    <File Name="494. Target Sum/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="486. Predict the Winner">
+    <File Name="486. Predict the Winner/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="474. Ones and Zeroes">
+    <File Name="474. Ones and Zeroes/Solution2.cpp"/>
+    <File Name="474. Ones and Zeroes/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="473. Matchsticks to Square">
+    <File Name="473. Matchsticks to Square/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="413. Arithmetic Slices">
+    <File Name="413. Arithmetic Slices/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="32. Longest Valid Parentheses">
+    <File Name="32. Longest Valid Parentheses/main.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="279. Perfect Squares">
+    <File Name="279. Perfect Squares/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="2653. Sliding Subarray Beauty">
+    <File Name="2653. Sliding Subarray Beauty/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="2617. Minimum Number of Visited Cells in a Grid">
+    <File Name="2617. Minimum Number of Visited Cells in a Grid/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="2616. Minimize the Maximum Difference of Pairs">
+    <File Name="2616. Minimize the Maximum Difference of Pairs/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="2589. Minimum Time to Complete All Tasks">
+    <File Name="2589. Minimum Time to Complete All Tasks/solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="2561. Rearranging Fruits">
+    <File Name="2561. Rearranging Fruits/Solution2.cpp"/>
+    <File Name="2561. Rearranging Fruits/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="2522. Partition String Into Substrings With Values at Most K">
+    <File Name="2522. Partition String Into Substrings With Values at Most K/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="2305. Fair Distribution of Cookies">
+    <File Name="2305. Fair Distribution of Cookies/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="213. House Robber II">
+    <File Name="213. House Robber II/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1987. Number of Unique Good Subsequences">
+    <File Name="1987. Number of Unique Good Subsequences/solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="198. House Robber">
+    <File Name="198. House Robber/Solution2.cpp"/>
+    <File Name="198. House Robber/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1947. Maximum Compatibility Score Sum">
+    <File Name="1947. Maximum Compatibility Score Sum/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1911. Maximum Alternating Subsequence Sum">
+    <File Name="1911. Maximum Alternating Subsequence Sum/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1824. Minimum Sideway Jumps">
+    <File Name="1824. Minimum Sideway Jumps/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1706. Where Will the Ball Fall">
+    <File Name="1706. Where Will the Ball Fall/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1664. Ways to Make a Fair Array">
+    <File Name="1664. Ways to Make a Fair Array/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1653. Minimum Deletions to Make String Balanced">
+    <File Name="1653. Minimum Deletions to Make String Balanced/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1578. Minimum Time to Make Rope Colorful">
+    <File Name="1578. Minimum Time to Make Rope Colorful/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1524. Number of Sub-arrays With Odd Sum">
+    <File Name="1524. Number of Sub-arrays With Odd Sum/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="15. 3Sum">
+    <File Name="15. 3Sum/main.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1425. Constrained Subsequence Sum">
+    <File Name="1425. Constrained Subsequence Sum/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1395. Count Number of Teams">
+    <File Name="1395. Count Number of Teams/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1335. Minimum Difficulty of a Job Schedule">
+    <File Name="1335. Minimum Difficulty of a Job Schedule/main.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="130. Surrounded Regions">
+    <File Name="130. Surrounded Regions/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="13. Roman to Integer">
+    <File Name="13. Roman to Integer/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="122. Best Time to Buy and Sell Stock II">
+    <File Name="122. Best Time to Buy and Sell Stock II/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1162. As Far from Land as Possible">
+    <File Name="1162. As Far from Land as Possible/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1140. Stone Game II">
+    <File Name="1140. Stone Game II/Solution2.cpp"/>
+    <File Name="1140. Stone Game II/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1043. Partition Array for Maximum Sum">
+    <File Name="1043. Partition Array for Maximum Sum/Solution.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="1035. Uncrossed Lines">
+    <File Name="1035. Uncrossed Lines/Solution.cpp"/>
+  </VirtualDirectory>
+  <Description/>
+  <Dependencies/>
+  <Settings Type="Executable">
+    <GlobalSettings>
+      <Compiler Options="" C_Options="" Assembler="">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="">
+        <LibraryPath Value="."/>
+      </Linker>
+      <ResourceCompiler Options=""/>
+    </GlobalSettings>
+    <Configuration Name="Debug" CompilerType="mingw64/gcc-12.2.0" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-g -Wall" C_Options="" Assembler="" Required="yes" PreCompiledHeader="" PCHInCommandLine="no" PCHFlags="" PCHFlagsPolicy="0">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="-O0" Required="yes">
+        <LibraryPath Value="."/>
+        <LibraryPath Value="Debug"/>
+      </Linker>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="$(IntermediateDirectory)/$(ProjectName).exe" IntermediateDirectory="$(ConfigurationName)" Command="$(OutputFile)" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="" PauseExecWhenProcTerminates="yes" IsGUIProgram="no" IsEnabled="yes"/>
+      <BuildSystem Name="Default"/>
+      <Environment EnvVarSetName="&lt;Use Workspace Settings&gt;" DbgSetName="&lt;Use Global Settings&gt;">
+        <![CDATA[]]>
+      </Environment>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="" IsExtended="no">
+        <DebuggerSearchPaths/>
+        <PostConnectCommands/>
+        <StartupCommands/>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <RebuildCommand/>
+        <CleanCommand/>
+        <BuildCommand/>
+        <PreprocessFileCommand/>
+        <SingleFileCommand/>
+        <MakefileGenerationCommand/>
+        <ThirdPartyToolName/>
+        <WorkingDirectory/>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild/>
+        <CustomPreBuild/>
+      </AdditionalRules>
+      <Completion EnableCpp11="no" EnableCpp14="no">
+        <ClangCmpFlagsC/>
+        <ClangCmpFlags/>
+        <ClangPP/>
+        <SearchPaths/>
+      </Completion>
+    </Configuration>
+  </Settings>
+  <Dependencies Name="Debug"/>
+</CodeLite_Project>
