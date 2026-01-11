@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.c": "c",
+    "vector": "cpp",
+    "xstring": "cpp"
+  }
+}
